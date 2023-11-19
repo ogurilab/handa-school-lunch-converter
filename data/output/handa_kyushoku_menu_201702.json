@@ -3,420 +3,318 @@
     "year": "2017",
     "month": "2",
     "day": "1",
-    "main_dish": "ごはん",
-    "menu_item_1": "さんまのぎんがみやき",
-    "menu_item_2": "なのはなあえ",
-    "menu_item_3": "にくじゃが",
-    "menu_item_4": null,
-    "menu_item_5": "",
-    "menu_item_6": "",
-    "drink": null,
     "calories_elementary": "660",
-    "calories_junior_high": "828"
+    "calories_junior_high": "828",
+    "menu_items": [
+      "ごはん",
+      "さんまのぎんがみやき",
+      "なのはなあえ",
+      "にくじゃが"
+    ]
   },
   {
     "year": "2017",
     "month": "2",
     "day": "2",
-    "main_dish": "ごはん",
-    "menu_item_1": "コロッケ",
-    "menu_item_2": "かんとうに",
-    "menu_item_3": "キャベツのゆかりあえ",
-    "menu_item_4": null,
-    "menu_item_5": "",
-    "menu_item_6": "",
-    "drink": null,
     "calories_elementary": "612",
-    "calories_junior_high": "765"
+    "calories_junior_high": "765",
+    "menu_items": ["ごはん", "コロッケ", "かんとうに", "キャベツのゆかりあえ"]
   },
   {
     "year": "2017",
     "month": "2",
     "day": "3",
-    "main_dish": "ごはん",
-    "menu_item_1": "いわしフライ　　",
-    "menu_item_2": "せつぶんまめ",
-    "menu_item_3": "ちゃんこなべ",
-    "menu_item_4": "こまつなとツナのあえもの　",
-    "menu_item_5": "",
-    "menu_item_6": "",
-    "drink": null,
     "calories_elementary": "765",
-    "calories_junior_high": "943"
+    "calories_junior_high": "943",
+    "menu_items": [
+      "ごはん",
+      "いわしフライ",
+      "せつぶんまめ",
+      "ちゃんこなべ",
+      "こまつなとツナのあえもの"
+    ]
   },
   {
     "year": "2017",
     "month": "2",
     "day": "4",
-    "main_dish": null,
-    "menu_item_1": null,
-    "menu_item_2": null,
-    "menu_item_3": null,
-    "menu_item_4": null,
-    "menu_item_5": "",
-    "menu_item_6": "",
-    "drink": null,
     "calories_elementary": null,
-    "calories_junior_high": null
+    "calories_junior_high": null,
+    "menu_items": []
   },
   {
     "year": "2017",
     "month": "2",
     "day": "5",
-    "main_dish": null,
-    "menu_item_1": null,
-    "menu_item_2": null,
-    "menu_item_3": null,
-    "menu_item_4": null,
-    "menu_item_5": "",
-    "menu_item_6": "",
-    "drink": null,
     "calories_elementary": null,
-    "calories_junior_high": null
+    "calories_junior_high": null,
+    "menu_items": []
   },
   {
     "year": "2017",
     "month": "2",
     "day": "6",
-    "main_dish": "きなこあげパン",
-    "menu_item_1": "ビーンズスープ",
-    "menu_item_2": "ごぼうサラダマヨネーズ",
-    "menu_item_3": "かたぬきチーズ",
-    "menu_item_4": null,
-    "menu_item_5": "",
-    "menu_item_6": "",
-    "drink": null,
     "calories_elementary": "624",
-    "calories_junior_high": "742"
+    "calories_junior_high": "742",
+    "menu_items": [
+      "きなこあげパン",
+      "ビーンズスープ",
+      "ごぼうサラダマヨネーズ",
+      "かたぬきチーズ"
+    ]
   },
   {
     "year": "2017",
     "month": "2",
     "day": "7",
-    "main_dish": "ごはん",
-    "menu_item_1": "ぶりのてりやき",
-    "menu_item_2": "きりぼしだいこんのにもの　",
-    "menu_item_3": "かきたまじる　",
-    "menu_item_4": "こうはくもち　",
-    "menu_item_5": "",
-    "menu_item_6": "",
-    "drink": null,
     "calories_elementary": "698",
-    "calories_junior_high": "854"
+    "calories_junior_high": "854",
+    "menu_items": [
+      "ごはん",
+      "ぶりのてりやき",
+      "きりぼしだいこんのにもの",
+      "かきたまじる",
+      "こうはくもち"
+    ]
   },
   {
     "year": "2017",
     "month": "2",
     "day": "8",
-    "main_dish": "ごはん",
-    "menu_item_1": "ビビンバ（にく）",
-    "menu_item_2": "ビビンバ（ナムル）",
-    "menu_item_3": "ちゅうかスープ　　",
-    "menu_item_4": "ヨーグルト",
-    "menu_item_5": "",
-    "menu_item_6": "",
-    "drink": null,
     "calories_elementary": "584",
-    "calories_junior_high": "724"
+    "calories_junior_high": "724",
+    "menu_items": [
+      "ごはん",
+      "ビビンバ（にく）",
+      "ビビンバ（ナムル）",
+      "ちゅうかスープ",
+      "ヨーグルト"
+    ]
   },
   {
     "year": "2017",
     "month": "2",
     "day": "9",
-    "main_dish": "むぎごはん",
-    "menu_item_1": "ツナそぼろ",
-    "menu_item_2": "あつやきたまご（のり）",
-    "menu_item_3": "やさいのうまに",
-    "menu_item_4": null,
-    "menu_item_5": "",
-    "menu_item_6": "",
-    "drink": null,
     "calories_elementary": "654",
-    "calories_junior_high": "803"
+    "calories_junior_high": "803",
+    "menu_items": [
+      "むぎごはん",
+      "ツナそぼろ",
+      "あつやきたまご（のり）",
+      "やさいのうまに"
+    ]
   },
   {
     "year": "2017",
     "month": "2",
     "day": "10",
-    "main_dish": "ちゅうかめん",
-    "menu_item_1": "ごもくちゅうかスープ",
-    "menu_item_2": "にくまん",
-    "menu_item_3": "もやしのあえもの",
-    "menu_item_4": null,
-    "menu_item_5": "",
-    "menu_item_6": "",
-    "drink": null,
     "calories_elementary": "633",
-    "calories_junior_high": "798"
+    "calories_junior_high": "798",
+    "menu_items": [
+      "ちゅうかめん",
+      "ごもくちゅうかスープ",
+      "にくまん",
+      "もやしのあえもの"
+    ]
   },
   {
     "year": "2017",
     "month": "2",
     "day": "11",
-    "main_dish": null,
-    "menu_item_1": null,
-    "menu_item_2": null,
-    "menu_item_3": null,
-    "menu_item_4": null,
-    "menu_item_5": "",
-    "menu_item_6": "",
-    "drink": null,
     "calories_elementary": null,
-    "calories_junior_high": null
+    "calories_junior_high": null,
+    "menu_items": []
   },
   {
     "year": "2017",
     "month": "2",
     "day": "12",
-    "main_dish": null,
-    "menu_item_1": null,
-    "menu_item_2": null,
-    "menu_item_3": null,
-    "menu_item_4": null,
-    "menu_item_5": "",
-    "menu_item_6": "",
-    "drink": null,
     "calories_elementary": null,
-    "calories_junior_high": null
+    "calories_junior_high": null,
+    "menu_items": []
   },
   {
     "year": "2017",
     "month": "2",
     "day": "13",
-    "main_dish": "ごはん",
-    "menu_item_1": "さけのしおやき",
-    "menu_item_2": "だいこんとぶたにくのにもの　",
-    "menu_item_3": "だいずのごもくいそに",
-    "menu_item_4": null,
-    "menu_item_5": "",
-    "menu_item_6": "",
-    "drink": null,
     "calories_elementary": "612",
-    "calories_junior_high": "772"
+    "calories_junior_high": "772",
+    "menu_items": [
+      "ごはん",
+      "さけのしおやき",
+      "だいこんとぶたにくのにもの",
+      "だいずのごもくいそに"
+    ]
   },
   {
     "year": "2017",
     "month": "2",
     "day": "14",
-    "main_dish": "むぎごはん",
-    "menu_item_1": "ハヤシライス",
-    "menu_item_2": "だいコーンサラダドレッシング",
-    "menu_item_3": "チョコだんご",
-    "menu_item_4": null,
-    "menu_item_5": "",
-    "menu_item_6": "",
-    "drink": null,
     "calories_elementary": "683",
-    "calories_junior_high": "823"
+    "calories_junior_high": "823",
+    "menu_items": [
+      "むぎごはん",
+      "ハヤシライス",
+      "だいコーンサラダドレッシング",
+      "チョコだんご"
+    ]
   },
   {
     "year": "2017",
     "month": "2",
     "day": "15",
-    "main_dish": "ごはん",
-    "menu_item_1": "にくしゅうまい(２こ・３こ)",
-    "menu_item_2": "なまあげのちゅうかに",
-    "menu_item_3": "ビーフンいため",
-    "menu_item_4": null,
-    "menu_item_5": "",
-    "menu_item_6": "",
-    "drink": null,
     "calories_elementary": "609",
-    "calories_junior_high": "784"
+    "calories_junior_high": "784",
+    "menu_items": [
+      "ごはん",
+      "にくしゅうまい(２こ・３こ)",
+      "なまあげのちゅうかに",
+      "ビーフンいため"
+    ]
   },
   {
     "year": "2017",
     "month": "2",
     "day": "16",
-    "main_dish": "レーズンロールパン",
-    "menu_item_1": "ハンバーグのデミソース",
-    "menu_item_2": "コーンクリームスープ",
-    "menu_item_3": "えだまめサラダドレッシング",
-    "menu_item_4": null,
-    "menu_item_5": "",
-    "menu_item_6": "",
-    "drink": null,
     "calories_elementary": "716",
-    "calories_junior_high": "891"
+    "calories_junior_high": "891",
+    "menu_items": [
+      "レーズンロールパン",
+      "ハンバーグのデミソース",
+      "コーンクリームスープ",
+      "えだまめサラダドレッシング"
+    ]
   },
   {
     "year": "2017",
     "month": "2",
     "day": "17",
-    "main_dish": "あかまいごはん",
-    "menu_item_1": "みそおでん",
-    "menu_item_2": "とりにくとれんこんのにもの",
-    "menu_item_3": "かぶのこんぶあえ",
-    "menu_item_4": null,
-    "menu_item_5": "",
-    "menu_item_6": "",
-    "drink": null,
     "calories_elementary": "598",
-    "calories_junior_high": "753"
+    "calories_junior_high": "753",
+    "menu_items": [
+      "あかまいごはん",
+      "みそおでん",
+      "とりにくとれんこんのにもの",
+      "かぶのこんぶあえ"
+    ]
   },
   {
     "year": "2017",
     "month": "2",
     "day": "18",
-    "main_dish": null,
-    "menu_item_1": null,
-    "menu_item_2": null,
-    "menu_item_3": null,
-    "menu_item_4": null,
-    "menu_item_5": "",
-    "menu_item_6": "",
-    "drink": null,
     "calories_elementary": null,
-    "calories_junior_high": null
+    "calories_junior_high": null,
+    "menu_items": []
   },
   {
     "year": "2017",
     "month": "2",
     "day": "19",
-    "main_dish": null,
-    "menu_item_1": null,
-    "menu_item_2": null,
-    "menu_item_3": null,
-    "menu_item_4": null,
-    "menu_item_5": "",
-    "menu_item_6": "",
-    "drink": null,
     "calories_elementary": null,
-    "calories_junior_high": null
+    "calories_junior_high": null,
+    "menu_items": []
   },
   {
     "year": "2017",
     "month": "2",
     "day": "20",
-    "main_dish": "はつがげんまいごはん",
-    "menu_item_1": "とりにくとさつまいものかんこくふう",
-    "menu_item_2": "はっぽうさい",
-    "menu_item_3": "いよかん　　",
-    "menu_item_4": "かんそうこざかな",
-    "menu_item_5": "",
-    "menu_item_6": "",
-    "drink": null,
     "calories_elementary": "613",
-    "calories_junior_high": "786"
+    "calories_junior_high": "786",
+    "menu_items": [
+      "はつがげんまいごはん",
+      "とりにくとさつまいものかんこくふう",
+      "はっぽうさい",
+      "いよかん",
+      "かんそうこざかな"
+    ]
   },
   {
     "year": "2017",
     "month": "2",
     "day": "21",
-    "main_dish": "ごはん",
-    "menu_item_1": "ハムフライ",
-    "menu_item_2": "はくさいのおかかあえ",
-    "menu_item_3": "おやこに",
-    "menu_item_4": null,
-    "menu_item_5": "",
-    "menu_item_6": "",
-    "drink": null,
     "calories_elementary": "675",
-    "calories_junior_high": "841"
+    "calories_junior_high": "841",
+    "menu_items": ["ごはん", "ハムフライ", "はくさいのおかかあえ", "おやこに"]
   },
   {
     "year": "2017",
     "month": "2",
     "day": "22",
-    "main_dish": "ごはん",
-    "menu_item_1": "さばのぎんがみやき",
-    "menu_item_2": "きんときまめのあまに",
-    "menu_item_3": "さわにわん",
-    "menu_item_4": null,
-    "menu_item_5": "",
-    "menu_item_6": "",
-    "drink": null,
     "calories_elementary": "651",
-    "calories_junior_high": "816"
+    "calories_junior_high": "816",
+    "menu_items": [
+      "ごはん",
+      "さばのぎんがみやき",
+      "きんときまめのあまに",
+      "さわにわん"
+    ]
   },
   {
     "year": "2017",
     "month": "2",
     "day": "23",
-    "main_dish": "わかめごはん",
-    "menu_item_1": "うずらたまごくしフライ",
-    "menu_item_2": "バンバンジーサラダ",
-    "menu_item_3": "キムチスープ",
-    "menu_item_4": null,
-    "menu_item_5": "",
-    "menu_item_6": "",
-    "drink": null,
     "calories_elementary": "553",
-    "calories_junior_high": "704"
+    "calories_junior_high": "704",
+    "menu_items": [
+      "わかめごはん",
+      "うずらたまごくしフライ",
+      "バンバンジーサラダ",
+      "キムチスープ"
+    ]
   },
   {
     "year": "2017",
     "month": "2",
     "day": "24",
-    "main_dish": "うどん",
-    "menu_item_1": "カレーなんばん",
-    "menu_item_2": "やさいのしらすあえ",
-    "menu_item_3": "フルーツポンチ",
-    "menu_item_4": null,
-    "menu_item_5": "",
-    "menu_item_6": "",
-    "drink": null,
     "calories_elementary": "627",
-    "calories_junior_high": "737"
+    "calories_junior_high": "737",
+    "menu_items": [
+      "うどん",
+      "カレーなんばん",
+      "やさいのしらすあえ",
+      "フルーツポンチ"
+    ]
   },
   {
     "year": "2017",
     "month": "2",
     "day": "25",
-    "main_dish": null,
-    "menu_item_1": null,
-    "menu_item_2": null,
-    "menu_item_3": null,
-    "menu_item_4": null,
-    "menu_item_5": "",
-    "menu_item_6": "",
-    "drink": null,
     "calories_elementary": null,
-    "calories_junior_high": null
+    "calories_junior_high": null,
+    "menu_items": []
   },
   {
     "year": "2017",
     "month": "2",
     "day": "26",
-    "main_dish": null,
-    "menu_item_1": null,
-    "menu_item_2": null,
-    "menu_item_3": null,
-    "menu_item_4": null,
-    "menu_item_5": "",
-    "menu_item_6": "",
-    "drink": null,
     "calories_elementary": null,
-    "calories_junior_high": null
+    "calories_junior_high": null,
+    "menu_items": []
   },
   {
     "year": "2017",
     "month": "2",
     "day": "27",
-    "main_dish": "ごはん",
-    "menu_item_1": "ししゃもフライのこうみソース(２ひき)",
-    "menu_item_2": "ごもくきんぴら",
-    "menu_item_3": "かすじる",
-    "menu_item_4": null,
-    "menu_item_5": "",
-    "menu_item_6": "",
-    "drink": null,
     "calories_elementary": "651",
-    "calories_junior_high": "799"
+    "calories_junior_high": "799",
+    "menu_items": [
+      "ごはん",
+      "ししゃもフライのこうみソース(２ひき)",
+      "ごもくきんぴら",
+      "かすじる"
+    ]
   },
   {
     "year": "2017",
     "month": "2",
     "day": "28",
-    "main_dish": "ごはん",
-    "menu_item_1": "にくだんごのすぶたふう",
-    "menu_item_2": "やさいのナムル",
-    "menu_item_3": "ワンタンスープ",
-    "menu_item_4": null,
-    "menu_item_5": "",
-    "menu_item_6": "",
-    "drink": null,
     "calories_elementary": "602",
-    "calories_junior_high": "761"
+    "calories_junior_high": "761",
+    "menu_items": [
+      "ごはん",
+      "にくだんごのすぶたふう",
+      "やさいのナムル",
+      "ワンタンスープ"
+    ]
   }
 ]

@@ -15,20 +15,22 @@ def process_excel_file(file_path):
 
     df_processed = df.drop(index=[0, 1])
     df_processed = df_processed[columns_required]
-    menu_columns = ['献立名１', '献立名２', '献立名３', '献立名４', '献立名５', '献立名６']
+    menu_columns = ["主食（パン・ごはん）",'献立名１', '献立名２', '献立名３', '献立名４', '献立名５', '献立名６', '飲み物']
     df_processed[menu_columns] = df_processed[menu_columns].replace('★', '', regex=True)
-    df_processed = df_processed.dropna(subset=menu_columns, how='all')
+
+    # 'menu_items' 配列を作成し、nullまたは空ではない文字列の献立名の値を追加
+    df_processed['menu_items'] = df_processed[menu_columns].apply(
+        lambda row: [str(item).strip() for item in row if not pd.isna(item) and str(item).strip()], axis=1
+    )
+
+    # 不要な列を削除
+    df_processed.drop(menu_columns, axis=1, inplace=True)
+    
     column_mapping = {
         'ic:年': 'year',
         'ic:月': 'month',
         'ic:日': 'day',
         '主食（パン・ごはん）': 'main_dish',
-        '献立名１': 'menu_item_1',
-        '献立名２': 'menu_item_2',
-        '献立名３': 'menu_item_3',
-        '献立名４': 'menu_item_4',
-        '献立名５': 'menu_item_5',
-        '献立名６': 'menu_item_6',
         '飲み物': 'drink',
         'カロリー（小学校）': 'calories_elementary',
         'カロリー（中学校）': 'calories_junior_high'
