@@ -37,6 +37,9 @@ def process_excel_file(file_path):
     }
 
     df_processed.rename(columns=column_mapping, inplace=True)
+    df_processed['offered_at'] = pd.to_datetime(df_processed[['year', 'month', 'day']], errors='coerce').dt.strftime('%Y-%m-%d')
+    df_processed.drop(['year', 'month', 'day'], axis=1, inplace=True)
+    
     return df_processed
 
 # JSON形式で保存する関数
