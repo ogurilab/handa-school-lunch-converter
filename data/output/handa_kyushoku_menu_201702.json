@@ -29,18 +29,6 @@
     "offered_at": "2017-02-03"
   },
   {
-    "calories_elementary": null,
-    "calories_junior_high": null,
-    "menu_items": [],
-    "offered_at": "2017-02-04"
-  },
-  {
-    "calories_elementary": null,
-    "calories_junior_high": null,
-    "menu_items": [],
-    "offered_at": "2017-02-05"
-  },
-  {
     "calories_elementary": "624",
     "calories_junior_high": "742",
     "menu_items": [
@@ -98,18 +86,6 @@
     "offered_at": "2017-02-10"
   },
   {
-    "calories_elementary": null,
-    "calories_junior_high": null,
-    "menu_items": [],
-    "offered_at": "2017-02-11"
-  },
-  {
-    "calories_elementary": null,
-    "calories_junior_high": null,
-    "menu_items": [],
-    "offered_at": "2017-02-12"
-  },
-  {
     "calories_elementary": "612",
     "calories_junior_high": "772",
     "menu_items": [
@@ -165,18 +141,6 @@
     "offered_at": "2017-02-17"
   },
   {
-    "calories_elementary": null,
-    "calories_junior_high": null,
-    "menu_items": [],
-    "offered_at": "2017-02-18"
-  },
-  {
-    "calories_elementary": null,
-    "calories_junior_high": null,
-    "menu_items": [],
-    "offered_at": "2017-02-19"
-  },
-  {
     "calories_elementary": "613",
     "calories_junior_high": "786",
     "menu_items": [
@@ -226,18 +190,6 @@
       "フルーツポンチ"
     ],
     "offered_at": "2017-02-24"
-  },
-  {
-    "calories_elementary": null,
-    "calories_junior_high": null,
-    "menu_items": [],
-    "offered_at": "2017-02-25"
-  },
-  {
-    "calories_elementary": null,
-    "calories_junior_high": null,
-    "menu_items": [],
-    "offered_at": "2017-02-26"
   },
   {
     "calories_elementary": "651",

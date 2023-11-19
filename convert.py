@@ -39,6 +39,8 @@ def process_excel_file(file_path):
     df_processed.rename(columns=column_mapping, inplace=True)
     df_processed['offered_at'] = pd.to_datetime(df_processed[['year', 'month', 'day']], errors='coerce').dt.strftime('%Y-%m-%d')
     df_processed.drop(['year', 'month', 'day'], axis=1, inplace=True)
+    df_processed = df_processed[~df_processed['calories_elementary'].isna() | ~df_processed['calories_junior_high'].isna()]
+    df_processed = df_processed[df_processed['menu_items'].str.len() > 0]
     
     return df_processed
 
