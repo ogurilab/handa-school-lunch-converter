@@ -6,8 +6,14 @@ import traceback
 def process_excel_file(file_path):
     # データを処理してデータフレームを返す
     df = pd.read_excel(file_path, header=9)
-    df_processed = df.drop(index=[0, 1])
+
+    # 必要な列を確認して、存在しない場合は追加する
     columns_required = ['ic:年', 'ic:月', 'ic:日', '主食（パン・ごはん）', '献立名１', '献立名２', '献立名３', '献立名４', '献立名５', '献立名６', '飲み物', 'カロリー（小学校）', 'カロリー（中学校）']
+    for column in ['献立名５', '献立名６']:
+        if column not in df.columns:
+            df[column] = ''  # 存在しない場合、空の列を作成
+
+    df_processed = df.drop(index=[0, 1])
     df_processed = df_processed[columns_required]
     menu_columns = ['献立名１', '献立名２', '献立名３', '献立名４', '献立名５', '献立名６']
     df_processed[menu_columns] = df_processed[menu_columns].replace('★', '', regex=True)
@@ -27,8 +33,9 @@ def process_excel_file(file_path):
         'カロリー（小学校）': 'calories_elementary',
         'カロリー（中学校）': 'calories_junior_high'
     }
-    df_renamed = df_processed.rename(columns=column_mapping)
-    return df_renamed
+
+    df_processed.rename(columns=column_mapping, inplace=True)
+    return df_processed
 
 # JSON形式で保存する関数
 def save_to_json(df, output_file_path):
