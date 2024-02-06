@@ -115,8 +115,8 @@ def process_all_excel_files(input_directory, output_directory):
 
 
 # 入力ディレクトリと出力ディレクトリのパスを指定
-input_directory = "./data/input"
-output_directory = "./data/output"
+input_directory = "./data/input/menus/"
+output_directory = "./data/output/menus/"
 
 # 処理の実行
 process_all_excel_files(input_directory, output_directory)
