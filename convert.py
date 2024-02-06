@@ -30,7 +30,16 @@ def process_excel_file(file_path):
 
     df_processed = df.drop(index=[0, 1])
     df_processed = df_processed[columns_required]
-    menu_columns = ["主食（パン・ごはん）", "献立名１", "献立名２", "献立名３", "献立名４", "献立名５", "献立名６", "飲み物"]
+    menu_columns = [
+        "主食（パン・ごはん）",
+        "献立名１",
+        "献立名２",
+        "献立名３",
+        "献立名４",
+        "献立名５",
+        "献立名６",
+        "飲み物",
+    ]
     df_processed[menu_columns] = df_processed[menu_columns].replace("★", "", regex=True)
 
     # 'menu_items' 配列を作成し、nullまたは空ではない文字列の献立名の値を追加
