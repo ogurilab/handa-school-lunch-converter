@@ -1,0 +1,1338 @@
+[
+  {
+    "name": "牛乳",
+    "allergens": [
+      {
+        "name": "乳",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "彩ｿｰｽのﾊﾝﾊﾞｰｸﾞ",
+    "allergens": [
+      {
+        "name": "豚肉",
+        "type": 1
+      },
+      {
+        "name": "鶏肉",
+        "type": 1
+      },
+      {
+        "name": "小麦",
+        "type": 2
+      },
+      {
+        "name": "大豆",
+        "type": 3
+      }
+    ]
+  },
+  {
+    "name": "きむたくごはんの具",
+    "allergens": [
+      {
+        "name": "りんご",
+        "type": 1
+      },
+      {
+        "name": "豚肉",
+        "type": 1
+      },
+      {
+        "name": "小麦",
+        "type": 3
+      },
+      {
+        "name": "大豆",
+        "type": 3
+      }
+    ]
+  },
+  {
+    "name": "じゃがいものみそ汁",
+    "allergens": [
+      {
+        "name": "さば",
+        "type": 1
+      },
+      {
+        "name": "大豆",
+        "type": 3
+      }
+    ]
+  },
+  {
+    "name": "牛乳",
+    "allergens": [
+      {
+        "name": "乳",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "くろロールパン",
+    "allergens": [
+      {
+        "name": "乳",
+        "type": 1
+      },
+      {
+        "name": "小麦",
+        "type": 1
+      },
+      {
+        "name": "大豆",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "鶏肉のカレー風味焼き",
+    "allergens": [
+      {
+        "name": "鶏肉",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "イタリアンサラダ",
+    "allergens": [
+      {
+        "name": "大豆",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "ビーンズスープ",
+    "allergens": [
+      {
+        "name": "豚肉",
+        "type": 1
+      },
+      {
+        "name": "鶏肉",
+        "type": 1
+      },
+      {
+        "name": "小麦",
+        "type": 2
+      },
+      {
+        "name": "大豆",
+        "type": 3
+      }
+    ]
+  },
+  {
+    "name": "牛乳",
+    "allergens": [
+      {
+        "name": "乳",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "中華めん",
+    "allergens": [
+      {
+        "name": "小麦",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "五目中華スープ",
+    "allergens": [
+      {
+        "name": "ゼラチン",
+        "type": 1
+      },
+      {
+        "name": "豚肉",
+        "type": 1
+      },
+      {
+        "name": "鶏肉",
+        "type": 1
+      },
+      {
+        "name": "ごま",
+        "type": 1
+      },
+      {
+        "name": "小麦",
+        "type": 3
+      },
+      {
+        "name": "大豆",
+        "type": 3
+      }
+    ]
+  },
+  {
+    "name": "春巻き",
+    "allergens": [
+      {
+        "name": "豚肉",
+        "type": 1
+      },
+      {
+        "name": "ごま",
+        "type": 1
+      },
+      {
+        "name": "小麦",
+        "type": 1
+      },
+      {
+        "name": "大豆",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "豆豆サラダ",
+    "allergens": [
+      {
+        "name": "大豆",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "牛乳",
+    "allergens": [
+      {
+        "name": "乳",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "肉ひじきごはんの具",
+    "allergens": [
+      {
+        "name": "豚肉",
+        "type": 1
+      },
+      {
+        "name": "小麦",
+        "type": 2
+      },
+      {
+        "name": "大豆",
+        "type": 2
+      }
+    ]
+  },
+  {
+    "name": "ごぼうサラダ",
+    "allergens": [
+      {
+        "name": "小麦",
+        "type": 2
+      },
+      {
+        "name": "大豆",
+        "type": 3
+      }
+    ]
+  },
+  {
+    "name": "卓上ごまドレッシング",
+    "allergens": [
+      {
+        "name": "ごま",
+        "type": 1
+      },
+      {
+        "name": "大豆",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "実だくさんみそ汁",
+    "allergens": [
+      {
+        "name": "鶏肉",
+        "type": 1
+      },
+      {
+        "name": "さば",
+        "type": 1
+      },
+      {
+        "name": "大豆",
+        "type": 3
+      }
+    ]
+  },
+  {
+    "name": "アーモンド入り小魚",
+    "allergens": [
+      {
+        "name": "アーモンド",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "牛乳",
+    "allergens": [
+      {
+        "name": "乳",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "いかフライ",
+    "allergens": [
+      {
+        "name": "いか",
+        "type": 1
+      },
+      {
+        "name": "小麦",
+        "type": 1
+      },
+      {
+        "name": "大豆",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "きんぴらごぼう",
+    "allergens": [
+      {
+        "name": "豚肉",
+        "type": 1
+      },
+      {
+        "name": "小麦",
+        "type": 2
+      },
+      {
+        "name": "大豆",
+        "type": 2
+      }
+    ]
+  },
+  {
+    "name": "すまし汁",
+    "allergens": [
+      {
+        "name": "さば",
+        "type": 1
+      },
+      {
+        "name": "小麦",
+        "type": 2
+      },
+      {
+        "name": "大豆",
+        "type": 3
+      }
+    ]
+  },
+  {
+    "name": "牛乳",
+    "allergens": [
+      {
+        "name": "乳",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "さけ銀紙巻き",
+    "allergens": [
+      {
+        "name": "さけ",
+        "type": 1
+      },
+      {
+        "name": "小麦",
+        "type": 1
+      },
+      {
+        "name": "大豆",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "梅肉和え",
+    "allergens": [
+      {
+        "name": "小麦",
+        "type": 2
+      },
+      {
+        "name": "大豆",
+        "type": 2
+      }
+    ]
+  },
+  {
+    "name": "根菜煮",
+    "allergens": [
+      {
+        "name": "鶏肉",
+        "type": 1
+      },
+      {
+        "name": "さば",
+        "type": 1
+      },
+      {
+        "name": "小麦",
+        "type": 2
+      },
+      {
+        "name": "大豆",
+        "type": 3
+      }
+    ]
+  },
+  {
+    "name": "牛乳",
+    "allergens": [
+      {
+        "name": "乳",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "きなこ揚げパン",
+    "allergens": [
+      {
+        "name": "乳",
+        "type": 1
+      },
+      {
+        "name": "小麦",
+        "type": 1
+      },
+      {
+        "name": "大豆",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "ポークビーンズ",
+    "allergens": [
+      {
+        "name": "豚肉",
+        "type": 1
+      },
+      {
+        "name": "小麦",
+        "type": 2
+      },
+      {
+        "name": "大豆",
+        "type": 3
+      }
+    ]
+  },
+  {
+    "name": "スパゲティサラダ",
+    "allergens": [
+      {
+        "name": "豚肉",
+        "type": 1
+      },
+      {
+        "name": "小麦",
+        "type": 1
+      },
+      {
+        "name": "大豆",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "ぶどうヨーグルト",
+    "allergens": [
+      {
+        "name": "乳",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "牛乳",
+    "allergens": [
+      {
+        "name": "乳",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "ビビンバ　具(肉）",
+    "allergens": [
+      {
+        "name": "豚肉",
+        "type": 1
+      },
+      {
+        "name": "大豆",
+        "type": 2
+      }
+    ]
+  },
+  {
+    "name": "ビビンバ　具(ｶﾐｶﾐﾅﾑﾙ)",
+    "allergens": [
+      {
+        "name": "ごま",
+        "type": 3
+      },
+      {
+        "name": "小麦",
+        "type": 2
+      },
+      {
+        "name": "大豆",
+        "type": 3
+      }
+    ]
+  },
+  {
+    "name": "わかめスープ",
+    "allergens": [
+      {
+        "name": "豚肉",
+        "type": 1
+      },
+      {
+        "name": "鶏肉",
+        "type": 1
+      },
+      {
+        "name": "小麦",
+        "type": 2
+      },
+      {
+        "name": "大豆",
+        "type": 2
+      }
+    ]
+  },
+  {
+    "name": "牛乳",
+    "allergens": [
+      {
+        "name": "乳",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "豆腐ﾊﾝﾊﾞｰｸﾞの照り焼きｿｰｽ",
+    "allergens": [
+      {
+        "name": "豚肉",
+        "type": 1
+      },
+      {
+        "name": "鶏肉",
+        "type": 1
+      },
+      {
+        "name": "小麦",
+        "type": 2
+      },
+      {
+        "name": "大豆",
+        "type": 3
+      }
+    ]
+  },
+  {
+    "name": "けんちん汁",
+    "allergens": [
+      {
+        "name": "鶏肉",
+        "type": 1
+      },
+      {
+        "name": "さば",
+        "type": 1
+      },
+      {
+        "name": "小麦",
+        "type": 2
+      },
+      {
+        "name": "大豆",
+        "type": 3
+      }
+    ]
+  },
+  {
+    "name": "牛乳",
+    "allergens": [
+      {
+        "name": "乳",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "いわしの梅煮",
+    "allergens": [
+      {
+        "name": "小麦",
+        "type": 1
+      },
+      {
+        "name": "大豆",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "肉じゃが",
+    "allergens": [
+      {
+        "name": "豚肉",
+        "type": 1
+      },
+      {
+        "name": "さば",
+        "type": 1
+      },
+      {
+        "name": "小麦",
+        "type": 2
+      },
+      {
+        "name": "大豆",
+        "type": 3
+      }
+    ]
+  },
+  {
+    "name": "牛乳",
+    "allergens": [
+      {
+        "name": "乳",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "ビーフン炒め",
+    "allergens": [
+      {
+        "name": "鶏肉",
+        "type": 1
+      },
+      {
+        "name": "小麦",
+        "type": 2
+      },
+      {
+        "name": "大豆",
+        "type": 2
+      }
+    ]
+  },
+  {
+    "name": "八宝湯",
+    "allergens": [
+      {
+        "name": "えび",
+        "type": 1
+      },
+      {
+        "name": "いか",
+        "type": 1
+      },
+      {
+        "name": "豚肉",
+        "type": 1
+      },
+      {
+        "name": "鶏肉",
+        "type": 1
+      },
+      {
+        "name": "小麦",
+        "type": 2
+      },
+      {
+        "name": "大豆",
+        "type": 2
+      }
+    ]
+  },
+  {
+    "name": "牛乳",
+    "allergens": [
+      {
+        "name": "乳",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "愛知の米粉入りパン",
+    "allergens": [
+      {
+        "name": "乳",
+        "type": 1
+      },
+      {
+        "name": "小麦",
+        "type": 1
+      },
+      {
+        "name": "大豆",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "ﾅｽとﾄﾏﾄのｽﾊﾟｹﾞｯﾃｨ",
+    "allergens": [
+      {
+        "name": "豚肉",
+        "type": 1
+      },
+      {
+        "name": "小麦",
+        "type": 1
+      },
+      {
+        "name": "大豆",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "ツナサラダ",
+    "allergens": [
+      {
+        "name": "大豆",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "フルーツﾎﾟﾝﾁ",
+    "allergens": [
+      {
+        "name": "もも",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "牛乳",
+    "allergens": [
+      {
+        "name": "乳",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "ソフト麺",
+    "allergens": [
+      {
+        "name": "小麦",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "半田ﾎﾟｰｸの肉みそかけ",
+    "allergens": [
+      {
+        "name": "豚肉",
+        "type": 1
+      },
+      {
+        "name": "小麦",
+        "type": 2
+      },
+      {
+        "name": "大豆",
+        "type": 3
+      }
+    ]
+  },
+  {
+    "name": "五目厚焼き卵",
+    "allergens": [
+      {
+        "name": "卵",
+        "type": 1
+      },
+      {
+        "name": "さば",
+        "type": 1
+      },
+      {
+        "name": "小麦",
+        "type": 1
+      },
+      {
+        "name": "大豆",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "ひじきの炒め煮",
+    "allergens": [
+      {
+        "name": "小麦",
+        "type": 2
+      },
+      {
+        "name": "大豆",
+        "type": 3
+      }
+    ]
+  },
+  {
+    "name": "牛乳",
+    "allergens": [
+      {
+        "name": "乳",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "みそカツ",
+    "allergens": [
+      {
+        "name": "豚肉",
+        "type": 1
+      },
+      {
+        "name": "小麦",
+        "type": 1
+      },
+      {
+        "name": "大豆",
+        "type": 2
+      }
+    ]
+  },
+  {
+    "name": "かりもりの和え物",
+    "allergens": [
+      {
+        "name": "鶏肉",
+        "type": 1
+      },
+      {
+        "name": "ごま",
+        "type": 3
+      },
+      {
+        "name": "小麦",
+        "type": 2
+      },
+      {
+        "name": "大豆",
+        "type": 2
+      }
+    ]
+  },
+  {
+    "name": "愛知の恵み汁",
+    "allergens": [
+      {
+        "name": "さば",
+        "type": 1
+      },
+      {
+        "name": "小麦",
+        "type": 2
+      },
+      {
+        "name": "大豆",
+        "type": 3
+      }
+    ]
+  },
+  {
+    "name": "牛乳",
+    "allergens": [
+      {
+        "name": "乳",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "ミルクロールパン",
+    "allergens": [
+      {
+        "name": "乳",
+        "type": 1
+      },
+      {
+        "name": "小麦",
+        "type": 1
+      },
+      {
+        "name": "大豆",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "愛知のﾄﾏﾄｿｰｽかけオムレツ",
+    "allergens": [
+      {
+        "name": "卵",
+        "type": 1
+      },
+      {
+        "name": "小麦",
+        "type": 2
+      },
+      {
+        "name": "大豆",
+        "type": 3
+      }
+    ]
+  },
+  {
+    "name": "れんこんサラダ",
+    "allergens": [
+      {
+        "name": "大豆",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "愛知のオニオンスープ",
+    "allergens": [
+      {
+        "name": "鶏肉",
+        "type": 1
+      },
+      {
+        "name": "小麦",
+        "type": 2
+      },
+      {
+        "name": "大豆",
+        "type": 2
+      }
+    ]
+  },
+  {
+    "name": "牛乳",
+    "allergens": [
+      {
+        "name": "乳",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "めひかりフライ",
+    "allergens": [
+      {
+        "name": "小麦",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "愛知大根のサラダ",
+    "allergens": [
+      {
+        "name": "りんご",
+        "type": 2
+      },
+      {
+        "name": "小麦",
+        "type": 2
+      },
+      {
+        "name": "大豆",
+        "type": 3
+      }
+    ]
+  },
+  {
+    "name": "半田ﾎﾟｰｸの豚汁",
+    "allergens": [
+      {
+        "name": "豚肉",
+        "type": 1
+      },
+      {
+        "name": "さば",
+        "type": 1
+      },
+      {
+        "name": "大豆",
+        "type": 3
+      }
+    ]
+  },
+  {
+    "name": "牛乳",
+    "allergens": [
+      {
+        "name": "乳",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "知多牛のﾋﾞｰﾌｶﾚｰ",
+    "allergens": [
+      {
+        "name": "りんご",
+        "type": 1
+      },
+      {
+        "name": "豚肉",
+        "type": 1
+      },
+      {
+        "name": "牛肉",
+        "type": 1
+      },
+      {
+        "name": "小麦",
+        "type": 3
+      },
+      {
+        "name": "大豆",
+        "type": 2
+      }
+    ]
+  },
+  {
+    "name": "フランクフルト",
+    "allergens": [
+      {
+        "name": "鶏肉",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "愛知野菜のマリネ",
+    "allergens": [
+      {
+        "name": "りんご",
+        "type": 2
+      },
+      {
+        "name": "豚肉",
+        "type": 1
+      },
+      {
+        "name": "大豆",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "牛乳",
+    "allergens": [
+      {
+        "name": "乳",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "けんちん信田のみそかけ",
+    "allergens": [
+      {
+        "name": "大豆",
+        "type": 3
+      }
+    ]
+  },
+  {
+    "name": "愛知のキャベツ和え",
+    "allergens": [
+      {
+        "name": "小麦",
+        "type": 2
+      },
+      {
+        "name": "大豆",
+        "type": 2
+      }
+    ]
+  },
+  {
+    "name": "半田の卵のかき卵汁",
+    "allergens": [
+      {
+        "name": "卵",
+        "type": 1
+      },
+      {
+        "name": "鶏肉",
+        "type": 1
+      },
+      {
+        "name": "さば",
+        "type": 1
+      },
+      {
+        "name": "小麦",
+        "type": 2
+      },
+      {
+        "name": "大豆",
+        "type": 2
+      }
+    ]
+  },
+  {
+    "name": "牛乳",
+    "allergens": [
+      {
+        "name": "乳",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "レバー入りつくね",
+    "allergens": [
+      {
+        "name": "鶏肉",
+        "type": 1
+      },
+      {
+        "name": "大豆",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "ブロッコリーサラダ",
+    "allergens": [
+      {
+        "name": "ごま",
+        "type": 1
+      },
+      {
+        "name": "小麦",
+        "type": 1
+      },
+      {
+        "name": "大豆",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "中華風スープ",
+    "allergens": [
+      {
+        "name": "豚肉",
+        "type": 1
+      },
+      {
+        "name": "鶏肉",
+        "type": 1
+      },
+      {
+        "name": "小麦",
+        "type": 2
+      },
+      {
+        "name": "大豆",
+        "type": 3
+      }
+    ]
+  },
+  {
+    "name": "牛乳",
+    "allergens": [
+      {
+        "name": "乳",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "宗田かつおのおかか煮",
+    "allergens": [
+      {
+        "name": "小麦",
+        "type": 1
+      },
+      {
+        "name": "大豆",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "きゅうりの甘酢和え",
+    "allergens": [
+      {
+        "name": "鶏肉",
+        "type": 1
+      },
+      {
+        "name": "小麦",
+        "type": 2
+      },
+      {
+        "name": "大豆",
+        "type": 2
+      }
+    ]
+  },
+  {
+    "name": "じゃがいもと生揚げの煮物",
+    "allergens": [
+      {
+        "name": "豚肉",
+        "type": 1
+      },
+      {
+        "name": "さば",
+        "type": 1
+      },
+      {
+        "name": "小麦",
+        "type": 2
+      },
+      {
+        "name": "大豆",
+        "type": 3
+      }
+    ]
+  },
+  {
+    "name": "牛乳",
+    "allergens": [
+      {
+        "name": "乳",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "豚肉のかりん揚げ",
+    "allergens": [
+      {
+        "name": "豚肉",
+        "type": 1
+      },
+      {
+        "name": "小麦",
+        "type": 2
+      },
+      {
+        "name": "大豆",
+        "type": 2
+      }
+    ]
+  },
+  {
+    "name": "雷汁",
+    "allergens": [
+      {
+        "name": "鶏肉",
+        "type": 1
+      },
+      {
+        "name": "さば",
+        "type": 1
+      },
+      {
+        "name": "ごま",
+        "type": 2
+      },
+      {
+        "name": "大豆",
+        "type": 3
+      }
+    ]
+  },
+  {
+    "name": "牛乳",
+    "allergens": [
+      {
+        "name": "乳",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "キャベツ入りつくね",
+    "allergens": [
+      {
+        "name": "豚肉",
+        "type": 1
+      },
+      {
+        "name": "鶏肉",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "name": "三色和え",
+    "allergens": [
+      {
+        "name": "小麦",
+        "type": 2
+      },
+      {
+        "name": "大豆",
+        "type": 2
+      }
+    ]
+  },
+  {
+    "name": "冬瓜汁",
+    "allergens": [
+      {
+        "name": "鶏肉",
+        "type": 1
+      },
+      {
+        "name": "さば",
+        "type": 1
+      },
+      {
+        "name": "小麦",
+        "type": 2
+      },
+      {
+        "name": "大豆",
+        "type": 2
+      }
+    ]
+  }
+]
