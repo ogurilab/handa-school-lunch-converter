@@ -3,10 +3,10 @@ import ulid
 import json
 
 # JSONデータを読み込むためのパス
-input_path = "./data/concat/concat.json"
+input_path = "./data/concat/menus/menu-concat.json"
 
 # SQL文を保存するためのパス
-output_path = "./data/sql/handashi.sql"
+output_path = "./data/sql/menus/handashi.sql"
 
 # JSONデータを読み込む
 with open(input_path, "r", encoding="utf-8") as file:
