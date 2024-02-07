@@ -2,9 +2,11 @@ import os
 import json
 
 # JSONファイルがあるディレクトリを指定
-input_directory = "./data/output"  # 入力ファイルがあるディレクトリ
-output_directory = "./data/concat"  # 結合されたファイルを保存するディレクトリ
-output_file = "concat.json"  # 出力ファイルの名前
+input_directory = "./data/output/allergens/"  # 入力ファイルがあるディレクトリ
+output_directory = (
+    "./data/concat/allergens/"  # 結合されたファイルを保存するディレクトリ
+)
+output_file = "allergen-concat.json"  # 出力ファイルの名前
 
 # 全てのJSONデータを格納するリスト
 all_data = []
